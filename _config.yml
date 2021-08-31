@@ -1,5 +1,5 @@
 # Site settings
-title: Mustafa Aydin
+title: Mustafa Aydın
 description: Personal Website
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mustafa.tc" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -8,7 +8,6 @@ url: "http://mustafa.tc" # the base hostname & protocol for your site e.g. http:
 username: MUSTAFA AYDIN
 #user_description: 
 #user_title: Software Developer
-email: anon@anon.com
 linkedin: https://www.linkedin.com/in/mustafayd/
 
 # Google-analytics
