@@ -1,6 +1,6 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Mustafa Aydin
+description: Personal Website
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mustafa.tc" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -9,7 +9,7 @@ username: MUSTAFA AYDIN
 #user_description: 
 #user_title: Software Developer
 email: anon@anon.com
-linkedin: abc
+linkedin: https://www.linkedin.com/in/mustafayd/
 
 # Google-analytics
 google-analytics:
